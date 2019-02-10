@@ -1,0 +1,12 @@
+
+
+"moviesError" = "We had a problem bringing the movies, please try again";
+"movieDetailsError" = "We had a problem bringing the movie details, please try again";
+"moreMoviesError" = "We had a problem bringing more movies, please try again";
+"castMemberError" = "We had a problem bringing the cast members, please try again";
+"personDetailError" = "We had a problem bringing actor details, please try again";
+"openWebPageError" = "Cannot open Movie web page";
+
+
+
+
